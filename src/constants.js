@@ -1,0 +1,1 @@
+export const apiURL = 'https://uxcandy.com/~shapoval/test-task-backend/v2';
